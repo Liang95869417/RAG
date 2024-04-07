@@ -1,0 +1,8 @@
+langchain
+langchain_openai
+unstructured # Document loading
+unstructured[md]
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+sentence-transformers
