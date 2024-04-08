@@ -4,7 +4,7 @@ A simple MVP to talk to my CV
 
 # Here is a short demo
 
-[View Video](data/video/demo.mp4)
+[View Video](data/video/demo.gif)
 
 
 # Instruction
