@@ -3,13 +3,7 @@
 A simple MVP to talk to my CV
 
 # Here is a short demo
-
-<video width="320" height="240" controls>
-  <source src="data/video/demo.gif)" type="video/gif">
-  Your browser does not support the video tag.
-</video>
-
-[View Video](data/video/demo.gif)
+![View Video](data/video/demo.gif)
 
 
 # Instruction
