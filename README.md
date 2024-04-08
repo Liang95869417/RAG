@@ -9,7 +9,7 @@ A simple MVP to talk to my CV
   Your browser does not support the video tag.
 </video>
 
-[View Video](.data/video/demo.webm)
+[View Video](data/video/demo.webm)
 
 
 # Instruction
