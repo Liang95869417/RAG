@@ -24,7 +24,7 @@ Dataingeniør med ekspertise i Python, SQL, MongoDB, Neo4j, og Spacy, godt kjent
 
 ## Utdanning
 **08/2019-06/2022**  
-**MSc: Major in Biology and Minor in Data Science**  
+**MSc: Major in Toxicology and Minor in Data Science**  
 University of Oslo, Oslo, Norway  
 Modules studied:
 - Applied Data Analysis and Machine Learning
