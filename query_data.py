@@ -44,7 +44,7 @@ def main():
     prompt = prompt_template.format(context=context_text, question=query_text)
     # print(prompt)
 
-    model = AzureChatOpenAI(azure_deployment="GPT-4", 
+    model = AzureChatOpenAI(azure_deployment="GPT-TURBO", 
                             openai_api_version="2023-07-01-preview",
                             azure_endpoint="https://intelligestsweeden.openai.azure.com/")
     response_text = model.invoke(prompt)

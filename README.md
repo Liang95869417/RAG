@@ -5,6 +5,7 @@ A simple MVP to talk to my CV
 # Here is a short demo
 ![View Video](data/video/demo.gif)
 
+![View Graph](data/video/demo.png)
 
 # Instruction
 Install dependencies.
